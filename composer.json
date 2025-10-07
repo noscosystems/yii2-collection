@@ -2,6 +2,7 @@
     "name": "noscosystems/yii2-collection",
     "description": "Basic collection library",
     "type": "yii2-extension",
+    "version": "1.4.0",
     "keywords": [
         "yii2",
         "yii2 collection",
